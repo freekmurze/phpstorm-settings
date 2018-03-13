@@ -1,0 +1,11 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
+    <option name="searchInBackground" value="true" />
+    <option name="showTipsOnStartup" value="false" />
+    <option name="useSafeWrite" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="dumb.aware.run.configurations" value="true" />
+  </component>
+</application>

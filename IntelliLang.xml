@@ -1,0 +1,94 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQLite" injector-id="js">
+      <display-name>HTML5 SQL Database (SQLite)</display-name>
+      <place disabled="true"><![CDATA[jsLiteralExpression().and(jsArgument("executeSql", 0))]]></place>
+    </injection>
+    <injection language="SQLite" injector-id="js">
+      <display-name>flash.data (SQLite)</display-name>
+      <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "dbStatement"))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "statement", "st").withText(string().matchesBrics("[\"'`] *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .*SET)|((CREATE|DROP|ALTER) +(TABLE|INDEX))) .*[\"'`]?")))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "flash.data.SQLStatement"))]]></place>
+    </injection>
+    <injection language="CSS" injector-id="php">
+      <display-name>&lt;&lt;&lt; CSS</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("CSS")]]></place>
+    </injection>
+    <injection language="HTML" injector-id="php">
+      <display-name>&lt;&lt;&lt; HTML</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("HTML")]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="php">
+      <display-name>&lt;&lt;&lt; JS</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("JS")]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="php">
+      <display-name>&lt;&lt;&lt; REGEXP</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("REGEXP")]]></place>
+    </injection>
+    <injection language="SQL" injector-id="php">
+      <display-name>&lt;&lt;&lt; SQL</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("SQL")]]></place>
+    </injection>
+    <injection language="XML" injector-id="php">
+      <display-name>&lt;&lt;&lt; XML</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("XML")]]></place>
+    </injection>
+    <injection language="JSON" injector-id="sql" pattern="(?i)json(b)?">
+      <display-name>(?i)json(b)?</display-name>
+    </injection>
+    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regclass" fragment="SQL_TABLE_REFERENCE" hosts="PostgreSQL">
+      <display-name>(?i)regclass</display-name>
+    </injection>
+    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regconfig" fragment="SQL_REFERENCE" hosts="PostgreSQL">
+      <display-name>(?i)regconfig</display-name>
+    </injection>
+    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regdictionary" fragment="SQL_REFERENCE" hosts="PostgreSQL">
+      <display-name>(?i)regdictionary</display-name>
+    </injection>
+    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regnamespace" fragment="SQL_SCHEMA_REFERENCE" hosts="PostgreSQL">
+      <display-name>(?i)regnamespace</display-name>
+    </injection>
+    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regoper" fragment="SQL_OPERATOR_REFERENCE" hosts="PostgreSQL">
+      <display-name>(?i)regoper</display-name>
+    </injection>
+    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regoperator" fragment="SQL_OPERATOR_SIGNATURE" hosts="PostgreSQL">
+      <display-name>(?i)regoperator</display-name>
+    </injection>
+    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regproc" fragment="SQL_FUNCTION_REFERENCE" hosts="PostgreSQL">
+      <display-name>(?i)regproc</display-name>
+    </injection>
+    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regprocedure" fragment="SQL_FUNCTION_SIGNATURE" hosts="PostgreSQL">
+      <display-name>(?i)regprocedure</display-name>
+    </injection>
+    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regrole" fragment="SQL_ROLE_REFERENCE" hosts="PostgreSQL">
+      <display-name>(?i)regrole</display-name>
+    </injection>
+    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regtype" fragment="SQL_TYPE_ELEMENT" hosts="PostgreSQL">
+      <display-name>(?i)regtype</display-name>
+    </injection>
+    <injection language="XML" injector-id="sql" pattern="(?i)xml(type)?">
+      <display-name>(?i)xml(type)?</display-name>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>*/@href</display-name>
+      <value-pattern>^javascript:(.+)</value-pattern>
+      <place disabled="true"><![CDATA[xmlAttribute().withLocalName(string().equalTo("href")).withParent(xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>*/@on.*</display-name>
+      <place disabled="true"><![CDATA[xmlAttribute().withLocalName(string().startsWith("on")).withParent(xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
+    </injection>
+    <injection language="CSS" injector-id="xml">
+      <display-name>*/@style</display-name>
+      <prefix>dummy_selector {</prefix>
+      <suffix>}</suffix>
+      <place disabled="true"><![CDATA[xmlAttribute().withLocalName(string().equalTo("style")).inside(xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
+    </injection>
+    <injection language="CSS" injector-id="xml">
+      <display-name>style</display-name>
+      <place disabled="true"><![CDATA[xmlTag().withLocalName(string().equalTo("style")).withNamespace(string().equalTo("http://www.w3.org/1999/xhtml"))]]></place>
+      <xpath-condition>lower-case(@type)='text/css'</xpath-condition>
+    </injection>
+  </component>
+</application>
