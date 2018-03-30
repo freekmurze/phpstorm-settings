@@ -4,5 +4,6 @@
     <option name="FONT_FACE" value=".SF NS Text" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
   </component>
 </application>
