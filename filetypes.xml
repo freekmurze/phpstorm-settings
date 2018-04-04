@@ -10,11 +10,12 @@
       <mapping pattern="scripts/soundcloudWidgetApi.js" type="PLAIN_TEXT" />
       <mapping pattern="sdsdf" type="PLAIN_TEXT" />
       <mapping pattern="PrepareSubscriptionRenewalTest" type="PLAIN_TEXT" />
+      <mapping pattern="Tiles" type="PLAIN_TEXT" />
       <mapping pattern="dfgdsgqsdfgl" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
+      <mapping pattern="EmailLocks" type="PLAIN_TEXT" />
       <mapping pattern=".gitigore" type="PLAIN_TEXT" />
       <mapping pattern="VatProperties" type="PLAIN_TEXT" />
-      <mapping pattern="Tiles" type="PLAIN_TEXT" />
       <mapping pattern="sessions" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="Middleware\VerifySignature" type="PLAIN_TEXT" />
