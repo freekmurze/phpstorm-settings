@@ -14,6 +14,7 @@
       <mapping pattern="dfgdsgqsdfgl" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern="EmailLocks" type="PLAIN_TEXT" />
+      <mapping pattern="hasCustomProperties" type="PLAIN_TEXT" />
       <mapping pattern=".gitigore" type="PLAIN_TEXT" />
       <mapping pattern="VatProperties" type="PLAIN_TEXT" />
       <mapping pattern="sessions" type="PLAIN_TEXT" />
