@@ -36,7 +36,7 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="74abe0" />
+        <option name="FOREGROUND" value="6798cd" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -44,7 +44,12 @@
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="66c358" />
+        <option name="FOREGROUND" value="58b157" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b600" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -63,9 +68,14 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c2b71c" />
+      </value>
+    </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cdcd00" />
+        <option name="FOREGROUND" value="adad00" />
       </value>
     </option>
     <option name="CSS.COMMENT">
