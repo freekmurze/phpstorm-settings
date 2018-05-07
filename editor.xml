@@ -1,4 +1,7 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="IBM Plex Mono" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SHOW_BREADCRUMBS" value="false" />
