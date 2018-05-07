@@ -12,4 +12,5 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="linessorter.sort" />
 </keymap>
