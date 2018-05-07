@@ -12,6 +12,7 @@
       <mapping pattern="PrepareSubscriptionRenewalTest" type="PLAIN_TEXT" />
       <mapping pattern="Tiles" type="PLAIN_TEXT" />
       <mapping pattern="dfgdsgqsdfgl" type="PLAIN_TEXT" />
+      <mapping pattern="AccountApi" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern="EmailLocks" type="PLAIN_TEXT" />
       <mapping pattern="hasCustomProperties" type="PLAIN_TEXT" />
