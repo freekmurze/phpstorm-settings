@@ -1,6 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="IBM Plex Mono" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Operator Mono" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
