@@ -29,6 +29,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern=".phpunit-watcher" type="YAML" />
     </extensionMap>
   </component>
