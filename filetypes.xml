@@ -12,15 +12,16 @@
       <mapping pattern="PrepareSubscriptionRenewalTest" type="PLAIN_TEXT" />
       <mapping pattern="Tiles" type="PLAIN_TEXT" />
       <mapping pattern="dfgdsgqsdfgl" type="PLAIN_TEXT" />
+      <mapping pattern="AccountApi" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern="EmailLocks" type="PLAIN_TEXT" />
       <mapping pattern="hasCustomProperties" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitigore" type="PLAIN_TEXT" />
       <mapping pattern="VatProperties" type="PLAIN_TEXT" />
+      <mapping pattern="Concerns/HasSchemalessAttributes" type="PLAIN_TEXT" />
       <mapping pattern="sessions" type="PLAIN_TEXT" />
-      <mapping pattern="AccountApi" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="Middleware\VerifySignature" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
