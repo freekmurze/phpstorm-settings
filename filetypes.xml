@@ -3,34 +3,24 @@
     <extensionMap>
       <mapping pattern=".global-gitignore" type="Git file" />
       <mapping ext="mwb" type="Native" />
+      <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="product/index.php" type="PHP" />
-      <mapping pattern="artisan" type="PHP" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="scripts/soundcloudWidgetApi.js" type="PLAIN_TEXT" />
-      <mapping pattern="sdsdf" type="PLAIN_TEXT" />
-      <mapping pattern="PrepareSubscriptionRenewalTest" type="PLAIN_TEXT" />
-      <mapping pattern="Tiles" type="PLAIN_TEXT" />
-      <mapping pattern="dfgdsgqsdfgl" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
-      <mapping pattern="EmailLocks" type="PLAIN_TEXT" />
-      <mapping pattern="hasCustomProperties" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".gitigore" type="PLAIN_TEXT" />
-      <mapping pattern="VatProperties" type="PLAIN_TEXT" />
-      <mapping pattern="Concerns/HasSchemalessAttributes" type="PLAIN_TEXT" />
-      <mapping pattern="sessions" type="PLAIN_TEXT" />
-      <mapping pattern="AccountApi" type="PLAIN_TEXT" />
-      <mapping pattern="Middleware\VerifySignature" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="sdsdf" type="PLAIN_TEXT" />
+      <mapping pattern=".gitigore" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="sessions" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping pattern=".phpunit-watcher" type="YAML" />
     </extensionMap>
   </component>
