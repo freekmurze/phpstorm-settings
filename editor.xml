@@ -3,4 +3,7 @@
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="IBM Plex Mono" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
 </application>
