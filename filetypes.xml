@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="AcceptsNameAndVendor" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="AcceptsNameAndVendor" type="PLAIN_TEXT" />
       <mapping pattern="new BackupDisk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
