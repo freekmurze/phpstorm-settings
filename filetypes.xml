@@ -6,6 +6,7 @@
       <mapping pattern="AcceptsNameAndVendor" type="PLAIN_TEXT" />
       <mapping pattern="new BackupDisk" type="PLAIN_TEXT" />
       <mapping pattern=".styleci" type="PLAIN_TEXT" />
+      <mapping pattern="FuzzyFilter" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
     </extensionMap>
