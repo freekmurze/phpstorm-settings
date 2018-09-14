@@ -22,7 +22,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
     </option>
