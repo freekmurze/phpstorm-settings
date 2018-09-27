@@ -41,6 +41,30 @@
           <Count>97</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'UpdateContactEmailAction.php'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UpdateContactEmailAction.php'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UpdateUrlActionTest and 16 more'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UpdateUrlActionTest and 16 more'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UpdateUrlActionTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UpdateUrlActionTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Declaration">
