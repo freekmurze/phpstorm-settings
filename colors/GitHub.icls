@@ -71,7 +71,9 @@
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="7e8d8f" />
+      </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
