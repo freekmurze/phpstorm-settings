@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="BalieAuth" type="PLAIN_TEXT" />
       <mapping pattern="UserResource" type="PLAIN_TEXT" />
+      <mapping pattern="partials" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="componentWithUnescapedVariable" type="PLAIN_TEXT" />
