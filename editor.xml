@@ -4,7 +4,7 @@
     <option name="FONT_FAMILY" value="IBM Plex Mono" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
