@@ -8,6 +8,7 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="AcceptsNameAndVendor" type="PLAIN_TEXT" />
       <mapping pattern="UserResource" type="PLAIN_TEXT" />
+      <mapping pattern="using-variables" type="PLAIN_TEXT" />
       <mapping pattern="componentWithUnescapedVariable" type="PLAIN_TEXT" />
       <mapping pattern="componentWithSpaceshipOperatorInAttribute.blade.php" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
