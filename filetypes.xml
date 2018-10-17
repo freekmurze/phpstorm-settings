@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="BalieAuth" type="PLAIN_TEXT" />
       <mapping pattern="ForgeControntroller" type="PLAIN_TEXT" />
+      <mapping pattern="OrderStatus" type="PLAIN_TEXT" />
       <mapping pattern="partials" type="PLAIN_TEXT" />
       <mapping pattern="namespacedView1" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
