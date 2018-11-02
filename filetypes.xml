@@ -20,6 +20,7 @@
       <mapping pattern="new BackupDisk" type="PLAIN_TEXT" />
       <mapping pattern=".styleci" type="PLAIN_TEXT" />
       <mapping pattern="componentWithQuotelessAttribute" type="PLAIN_TEXT" />
+      <mapping pattern="qsdfqsdf" type="PLAIN_TEXT" />
       <mapping pattern="FuzzyFilter" type="PLAIN_TEXT" />
       <mapping pattern="Exceptions" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
