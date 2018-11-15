@@ -30,7 +30,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>150</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
