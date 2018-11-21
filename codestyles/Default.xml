@@ -1,6 +1,8 @@
 <code_scheme name="Default" version="173">
   <PHPCodeStyleSettings>
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="FIELDS_DEFAULT_VISIBILITY" value="protected" />
+    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="HTML">
