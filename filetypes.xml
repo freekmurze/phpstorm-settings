@@ -12,6 +12,7 @@
       <mapping pattern="AcceptsNameAndVendor" type="PLAIN_TEXT" />
       <mapping pattern="UserResource" type="PLAIN_TEXT" />
       <mapping pattern="forgeImport" type="PLAIN_TEXT" />
+      <mapping pattern="Concerns/CalculatesPrices" type="PLAIN_TEXT" />
       <mapping pattern="using-variables" type="PLAIN_TEXT" />
       <mapping pattern="componentWithUnescapedVariable" type="PLAIN_TEXT" />
       <mapping pattern="componentWithSpaceshipOperatorInAttribute.blade.php" type="PLAIN_TEXT" />
