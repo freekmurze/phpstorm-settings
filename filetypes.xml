@@ -1,31 +1,32 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern=".styleci" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".styleci" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <removed_mapping pattern="stubs" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="new BackupDisk" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ForgeControntroller" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="forgeImport" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="AcceptsNameAndVendor" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="PathGenerator.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="FuzzyFilter" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="BalieAuth" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="AcceptsNameAndVendor" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="components" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="partials" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="ForgeControntroller" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Exceptions" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="componentWithQuotelessAttribute" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="partials" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="BalieAuth" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="UserResource" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="new BackupDisk" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Concerns/CalculatesPrices" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="views" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="using-variables" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="namespacedView1" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="disabledBecauseOverPlanLimit" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="componentWithUnescapedVariable" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="stubs" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Exceptions" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="OrderStatus" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="UserResource" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="disabledBecauseOverPlanLimit" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="componentWithSpaceshipOperatorInAttribute.blade.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="qsdfqsdf" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
