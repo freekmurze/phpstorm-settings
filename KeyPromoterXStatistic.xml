@@ -38,7 +38,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>187</Count>
+          <Count>188</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
