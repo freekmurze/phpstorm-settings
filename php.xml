@@ -8,7 +8,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/local/Cellar/php71/7.1.0_11/bin/php" id="561a0c6d-a1fe-4e27-a688-1e01335ef25b" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php/7.2.9_2/bin/php" id="82f691d2-6638-461a-ac57-f3732060d46a" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php@7.2/7.2.13/bin/php" id="dedc5399-4920-4faf-8305-8457b5fa7b0b" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -365,7 +365,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.2.9_2/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.2.9_2/bin/php" path_separator=":" version="7.2.9">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.13/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.13/bin/php" path_separator=":" version="7.2.13">
           <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
@@ -441,7 +441,7 @@
             <configuration_option name="imagick.progress_monitor" value="0" />
             <configuration_option name="imagick.skip_version_check" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.2.9_2/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.13/share/php@7.2/pear" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -626,6 +626,8 @@
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sqlite3.extension_dir" value="" />
             <configuration_option name="sys_temp_dir" value="" />
+            <configuration_option name="tidy.clean_output" value="" />
+            <configuration_option name="tidy.default_config" value="" />
             <configuration_option name="track_errors" value="0" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="128M" />
@@ -708,6 +710,7 @@
             <extension name="sysvmsg" />
             <extension name="sysvsem" />
             <extension name="sysvshm" />
+            <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
             <extension name="xml" />

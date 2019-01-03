@@ -105,6 +105,14 @@
           <Count>161</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CompleteOrderActionTest.it_will_bcc_invoices_to_the_emailaddresses_specified_in_the_flow'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CompleteOrderActionTest.it_will_bcc_invoices_to_the_emailaddresses_specified_in_the_flow'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'UpdateContactEmailAction.php'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -127,6 +135,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'UpdateUrlActionTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'it_will_generate_and...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'it_will_generate_and...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'tests (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'tests (PHPUnit)'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
