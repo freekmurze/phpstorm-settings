@@ -113,6 +113,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Rerun Failed Tests'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'UpdateContactEmailAction.php'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>

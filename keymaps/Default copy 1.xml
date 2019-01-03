@@ -3,4 +3,16 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta ampersand" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
