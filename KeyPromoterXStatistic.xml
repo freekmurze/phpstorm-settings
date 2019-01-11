@@ -78,7 +78,7 @@
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
