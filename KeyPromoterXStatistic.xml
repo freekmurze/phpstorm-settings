@@ -169,6 +169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'it_shows_a_message_i...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R' or '⌘T'</ShortCut>
+          <Description>Run 'it_shows_a_message_i...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'it_wil_create_a_tick...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -198,7 +206,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R' or '⌘T'</ShortCut>
           <Description>Run 'request_order_can_co...'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'tests (PHPUnit)'">
@@ -222,7 +230,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'tests'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
     </option>
