@@ -38,7 +38,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>222</Count>
+          <Count>223</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -110,7 +110,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>177</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CompleteOrderActionTest.it_will_bcc_invoices_to_the_emailaddresses_specified_in_the_flow'">
