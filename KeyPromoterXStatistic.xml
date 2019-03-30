@@ -177,6 +177,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'it_can_catch_excepti...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R' or '⌘T'</ShortCut>
+          <Description>Run 'it_can_catch_excepti...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'it_can_complete_all_...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
