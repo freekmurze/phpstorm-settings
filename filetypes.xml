@@ -5,6 +5,7 @@
       <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping pattern="SendMailReactor" type="PLAIN_TEXT" />
       <mapping pattern="Reviewable" type="PLAIN_TEXT" />
+      <mapping pattern="using-projectors-to-transform-events" type="PLAIN_TEXT" />
       <mapping pattern="what-are-aggregates" type="PLAIN_TEXT" />
       <mapping pattern="ReviewableWasAlreadyReviewed" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
