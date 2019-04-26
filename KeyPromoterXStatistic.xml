@@ -6,7 +6,7 @@
           <IdeaActionID>CommentByLineComment</IdeaActionID>
           <ShortCut>'⌘/' or '⌘NumPad /'</ShortCut>
           <Description>Comment with Line Comment</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
