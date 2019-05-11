@@ -26,5 +26,8 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="Vcs.UpdateProject" />
 </keymap>
