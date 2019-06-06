@@ -3,7 +3,7 @@
     <property name="created">2019-06-06T11:52:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-06T14:15:47</property>
+    <property name="modified">2019-06-06T14:26:32</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <colors>
@@ -451,6 +451,12 @@
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="333333" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="444444" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
