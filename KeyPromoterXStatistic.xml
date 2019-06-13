@@ -113,6 +113,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste without Formatting">
+        <Item>
+          <IdeaActionID>EditorPasteSimple</IdeaActionID>
+          <ShortCut>'⌥⇧⌘V'</ShortCut>
+          <Description>Paste without Formatting</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
