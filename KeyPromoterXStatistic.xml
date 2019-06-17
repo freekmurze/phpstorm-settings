@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B'</ShortCut>
+          <Description>Declaration or Usages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
