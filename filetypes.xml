@@ -54,8 +54,8 @@
       <removed_mapping pattern=".php_cs" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="componentWithSpaceshipOperatorInAttribute.blade.php" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="namespacedView1" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="namespacedView1" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
