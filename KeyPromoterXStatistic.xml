@@ -33,12 +33,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B'</ShortCut>
+          <Description>Declaration or Usages</Description>
+          <Count>34</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>256</Count>
+          <Count>258</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -54,7 +62,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>14</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -102,7 +110,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -113,12 +121,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste without Formatting">
+        <Item>
+          <IdeaActionID>EditorPasteSimple</IdeaActionID>
+          <ShortCut>'⌥⇧⌘V'</ShortCut>
+          <Description>Paste without Formatting</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1' or '⌘&amp;'</ShortCut>
           <Description>Project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -126,7 +142,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>224</Count>
+          <Count>234</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CompleteOrderActionTest.it_will_bcc_invoices_to_the_emailaddresses_specified_in_the_flow'">

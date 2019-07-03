@@ -1,9 +1,9 @@
 <scheme name="Light Lite" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-06-06T11:52:18</property>
+    <property name="created">2019-06-11T14:18:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-06T14:26:32</property>
+    <property name="modified">2019-06-14T17:32:11</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <colors>
@@ -24,12 +24,12 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="f0f0f0" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
-    <option name="SELECTED_TEARLINE_COLOR" value="" />
+    <option name="SELECTED_TEARLINE_COLOR" value="0" />
     <option name="SELECTION_BACKGROUND" value="dddddd" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-    <option name="TEARLINE_COLOR" value="" />
+    <option name="TEARLINE_COLOR" value="aaaaaa" />
     <option name="VISUAL_INDENT_GUIDE" value="f0f0f0" />
     <option name="WHITESPACES" value="" />
   </colors>
@@ -137,9 +137,9 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="424242" />
+        <option name="FOREGROUND" value="454545" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ea4334" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -211,9 +211,9 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="444444" />
+        <option name="FOREGROUND" value="454545" />
+        <option name="BACKGROUND" value="fffbf2" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ea4334" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -321,13 +321,25 @@
       <value />
     </option>
     <option name="INLINE_PARAMETER_HINT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="454545" />
+        <option name="BACKGROUND" value="fff9eb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="454545" />
+        <option name="BACKGROUND" value="fff9eb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="454545" />
+        <option name="BACKGROUND" value="fff9eb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
@@ -451,12 +463,6 @@
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="333333" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PHP_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="444444" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
