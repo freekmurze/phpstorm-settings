@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="HasNotificationDestinations" type="PLAIN_TEXT" />
@@ -12,7 +14,6 @@
       <mapping pattern=".styleci" type="PLAIN_TEXT" />
       <mapping pattern="using-projectors-to-transform-events" type="PLAIN_TEXT" />
       <mapping pattern="Reviewable" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="mail" type="PLAIN_TEXT" />
       <mapping pattern="UserAddedToProjectEvent" type="PLAIN_TEXT" />
       <mapping pattern="SendMailReactor" type="PLAIN_TEXT" />
@@ -27,11 +28,11 @@
       <mapping ext="stub" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="qsdfqsdf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="components" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="FuzzyFilter" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="forgeImport" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Concerns/CalculatesPrices" approved="true" type="PLAIN_TEXT" />
@@ -43,14 +44,17 @@
       <removed_mapping pattern="OrderStatus" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Exceptions" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping pattern="new BackupDisk" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="AcceptsNameAndVendor" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ForgeControntroller" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="views" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="componentWithUnescapedVariable" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="BalieAuth" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping pattern="UserResource" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="PathGenerator.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".php_cs" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="componentWithSpaceshipOperatorInAttribute.blade.php" approved="true" type="PLAIN_TEXT" />
