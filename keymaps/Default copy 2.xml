@@ -1,4 +1,9 @@
 <keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="meta ampersand" />
+    <keyboard-shortcut first-keystroke="shift meta ampersand" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift meta c" />
@@ -6,5 +11,9 @@
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
+  <action id="FindPrevious" />
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
 </keymap>
