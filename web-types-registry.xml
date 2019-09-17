@@ -1,12 +1,8 @@
 <application>
   <component name="VueWebTypesRegistry">
     <package name="@web-types/bootstrap-vue">
-      <version value="2.0.0-rc.27.1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-rc.27.1.tgz" />
-      <version value="2.0.0-rc.26.1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-rc.26.1.tgz" />
-      <version value="2.0.0-rc.25.1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-rc.25.1.tgz" />
-      <version value="2.0.0-rc.24.2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-rc.24.2.tgz" />
       <version value="2.0.0-rc.20.2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-rc.20.2.tgz" />
-      <version value="2.0.0-rc.0.2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-rc.0.2.tgz" />
+      <version value="2.0.0-1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-1.tgz" />
       <version value="1.5.0-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.5.0-2.tgz" />
       <version value="1.4.1-1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.4.1-1.tgz" />
       <version value="1.4.0-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.4.0-2.tgz" />
@@ -18,6 +14,8 @@
       <version value="1.0.0-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.0.0-2.tgz" />
     </package>
     <package name="@web-types/quasar">
+      <version value="1.1.0-1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.1.0-1.tgz" />
+      <version value="1.0.5-1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.5-1.tgz" />
       <version value="1.0.0-rc.5.2" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.0-rc.5.2.tgz" />
       <version value="1.0.0-rc.1.2" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.0-rc.1.2.tgz" />
       <version value="1.0.0-1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.0-1.tgz" />
@@ -46,7 +44,11 @@
       <version value="1.0.0-1" url="https://registry.npmjs.org/@web-types/vue/-/vue-1.0.0-1.tgz" />
     </package>
     <package name="@web-types/vuetify">
-      <version value="2.0.0-beta.3.2" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-2.0.0-beta.3.2.tgz" />
+      <version value="2.0.15-1" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-2.0.15-1.tgz" />
+      <version value="2.0.12-1" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-2.0.12-1.tgz" />
+      <version value="2.0.5-1" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-2.0.5-1.tgz" />
+      <version value="2.0.4-1" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-2.0.4-1.tgz" />
+      <version value="2.0.1-1" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-2.0.1-1.tgz" />
       <version value="2.0.0-1" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-2.0.0-1.tgz" />
       <version value="1.5.12-2" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-1.5.12-2.tgz" />
       <version value="1.5.1-2" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-1.5.1-2.tgz" />
