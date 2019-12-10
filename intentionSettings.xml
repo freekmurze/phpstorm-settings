@@ -1,8 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
-    <ignoreAction name="Language Injection/Inject language or reference" />
-    <ignoreAction name="XML/Expand empty tag" />
-    <ignoreAction name="XML/Collapse empty tag" />
-  </component>
-</application>
