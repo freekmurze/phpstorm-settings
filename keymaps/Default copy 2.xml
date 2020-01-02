@@ -17,8 +17,18 @@
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
+  <action id="GotoTest" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="ServiceView.ShowServices" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
