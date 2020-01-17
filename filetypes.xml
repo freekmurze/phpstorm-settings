@@ -9,6 +9,7 @@
       <mapping pattern="publicSignature" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="forms" type="PLAIN_TEXT" />
       <mapping pattern="invalidWelcomeLink" type="PLAIN_TEXT" />
       <mapping pattern=".env-ohdear" type="PLAIN_TEXT" />
       <mapping pattern=".env-freekdev" type="PLAIN_TEXT" />
