@@ -29,6 +29,16 @@
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta e_with_acute" />
+  </action>
   <action id="ServiceView.ShowServices" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
 </keymap>
