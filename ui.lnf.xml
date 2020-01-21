@@ -1,6 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="EDITOR_TAB_LIMIT" value="1" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="6" />
