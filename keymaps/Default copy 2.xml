@@ -13,11 +13,17 @@
     <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="FindPrevious" />
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="GotoTest" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta t" />
