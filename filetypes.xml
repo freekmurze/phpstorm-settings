@@ -1,19 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.php.stub" type="PHP" />
       <mapping ext="stub" type="PHP" />
-      <mapping pattern="alternative-delimiter" type="PLAIN_TEXT" />
-      <mapping pattern="publicKey" type="PLAIN_TEXT" />
+      <removed_mapping ext="ctp" approved="true" type="PHP" />
+      <mapping pattern="invalidWelcomeLink" type="PLAIN_TEXT" />
       <mapping pattern=".env-flare" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="publicSignature" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="forms" type="PLAIN_TEXT" />
-      <mapping pattern="invalidWelcomeLink" type="PLAIN_TEXT" />
-      <mapping pattern=".env-ohdear" type="PLAIN_TEXT" />
-      <mapping pattern=".env-freekdev" type="PLAIN_TEXT" />
       <mapping pattern="MaintenancePeriodPolicy" type="PLAIN_TEXT" />
+      <mapping pattern="publicKey" type="PLAIN_TEXT" />
+      <mapping pattern=".env-freekdev" type="PLAIN_TEXT" />
+      <mapping pattern=".env-ohdear" type="PLAIN_TEXT" />
+      <mapping pattern="alternative-delimiter" type="PLAIN_TEXT" />
+      <mapping pattern="forms" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -26,6 +28,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="ctp" approved="true" type="PHP" />
     </extensionMap>
   </component>
 </application>
