@@ -5,6 +5,7 @@
       <mapping ext="stub" type="PHP" />
       <removed_mapping ext="ctp" approved="true" type="PHP" />
       <mapping pattern="alternative-delimiter" type="PLAIN_TEXT" />
+      <mapping pattern="getting-a-license" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
       <mapping pattern=".env-flare" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
