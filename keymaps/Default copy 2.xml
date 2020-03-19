@@ -8,11 +8,18 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="CopyPaths" />
+  <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
@@ -21,6 +28,7 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="GotoTest" />
+  <action id="NextOccurence" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
@@ -31,6 +39,7 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta i" />
@@ -38,6 +47,10 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta e_with_acute" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
   <action id="ServiceView.ShowServices" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -47,4 +60,6 @@
   </action>
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
