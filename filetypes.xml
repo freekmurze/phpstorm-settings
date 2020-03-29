@@ -11,6 +11,7 @@
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="installing-via-the-1-click-do-installer" type="PLAIN_TEXT" />
       <mapping pattern="publicSignature" type="PLAIN_TEXT" />
+      <mapping pattern=".phpunit.result.cache" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
