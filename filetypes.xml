@@ -16,7 +16,10 @@
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
+      <mapping pattern="creating-your-own-tile" type="PLAIN_TEXT" />
+      <mapping pattern="general-overview" type="PLAIN_TEXT" />
       <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
+      <mapping pattern="customizing-the-views" type="PLAIN_TEXT" />
       <mapping pattern="MaintenancePeriodPolicy" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
