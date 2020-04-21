@@ -19,6 +19,7 @@
       <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
       <mapping pattern="MaintenancePeriodPolicy" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="publicSignature" type="PLAIN_TEXT" />
       <mapping pattern=".env-flare" type="PLAIN_TEXT" />
       <mapping pattern="invalidWelcomeLink" type="PLAIN_TEXT" />
