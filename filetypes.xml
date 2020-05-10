@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.php.stub" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
       <removed_mapping ext="ctp" approved="true" type="PHP" />
-      <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
       <mapping pattern=".phpunit.result.cache" type="PLAIN_TEXT" />
       <mapping pattern=".env-freekdev" type="PLAIN_TEXT" />
       <mapping pattern="determining-the-current-tenant" type="PLAIN_TEXT" />
@@ -14,9 +14,10 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="MaintenancePeriodPolicy" type="PLAIN_TEXT" />
       <mapping pattern=".env-ohdear" type="PLAIN_TEXT" />
-      <mapping pattern="publicSignature" type="PLAIN_TEXT" />
+      <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
       <mapping pattern="creating-your-own-tile" type="PLAIN_TEXT" />
+      <mapping pattern="publicSignature" type="PLAIN_TEXT" />
       <mapping pattern="create_dashboard_tiles_table" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
       <mapping pattern="working-with-the-current-tenant" type="PLAIN_TEXT" />
@@ -42,7 +43,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="ctp" approved="true" type="PHP" />
-      <removed_mapping pattern=".php_cs" approved="true" type="PHP" />
     </extensionMap>
   </component>
 </application>
