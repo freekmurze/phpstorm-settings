@@ -3,7 +3,7 @@
     <property name="created">2019-06-11T14:18:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-07-03T08:52:11</property>
+    <property name="modified">2020-05-31T01:27:15</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <colors>
@@ -392,16 +392,19 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
+        <option name="FOREGROUND" value="c0ffb4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
+        <option name="FOREGROUND" value="ffa5a4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
+        <option name="FOREGROUND" value="ffdd27" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
