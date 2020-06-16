@@ -30,6 +30,7 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="publicSignature" type="PLAIN_TEXT" />
       <mapping pattern=".env-flare" type="PLAIN_TEXT" />
+      <mapping pattern="single-upload" type="PLAIN_TEXT" />
       <mapping pattern="invalidWelcomeLink" type="PLAIN_TEXT" />
       <mapping pattern="TailCommandTest" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
