@@ -16,6 +16,7 @@
       <mapping pattern=".phpunit.result.cache" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
+      <mapping pattern="views" type="PLAIN_TEXT" />
       <mapping pattern="creating-your-own-tile" type="PLAIN_TEXT" />
       <mapping pattern="migrations" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
