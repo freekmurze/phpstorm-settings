@@ -12,4 +12,12 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.type.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
 </application>

@@ -44,9 +44,7 @@
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
-  <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="meta e_with_acute" />
-  </action>
+  <action id="SelectInProjectView" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
