@@ -20,6 +20,10 @@
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="meta #3e9" />
+    <keyboard-shortcut first-keystroke="shift meta #3e9" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
