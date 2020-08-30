@@ -5,15 +5,16 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
       <removed_mapping ext="ctp" approved="true" type="PHP" />
-      <mapping pattern="create_dashboard_tiles_table" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="create_dashboard_tiles_table" type="PLAIN_TEXT" />
       <mapping pattern=".env-flare" type="PLAIN_TEXT" />
       <mapping pattern="determining-the-current-tenant" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
+      <mapping pattern="jsonToHtml" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="TailCommandTest" type="PLAIN_TEXT" />
       <mapping pattern="publicSignature" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="general-overview" type="PLAIN_TEXT" />
       <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
       <mapping pattern="single-upload" type="PLAIN_TEXT" />
@@ -27,8 +28,8 @@
       <mapping pattern="alternative-delimiter" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="getting-a-license" type="PLAIN_TEXT" />
-      <mapping pattern="invalidWelcomeLink" type="PLAIN_TEXT" />
       <mapping pattern="views" type="PLAIN_TEXT" />
+      <mapping pattern="invalidWelcomeLink" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="creating-your-own-tile" type="PLAIN_TEXT" />
       <mapping pattern="using-a-custom-tenant-model" type="PLAIN_TEXT" />
