@@ -1,0 +1,9 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="PASSIVE_VOICE" />
+      </set>
+    </option>
+  </component>
+</application>
