@@ -9,6 +9,15 @@
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="meta colon" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="CopyPaths" />
