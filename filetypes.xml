@@ -5,8 +5,8 @@
       <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="create_dashboard_tiles_table" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env-flare" type="PLAIN_TEXT" />
       <mapping pattern="determining-the-current-tenant" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
@@ -26,11 +26,11 @@
       <mapping pattern="forms" type="PLAIN_TEXT" />
       <mapping pattern="MaintenancePeriodPolicy" type="PLAIN_TEXT" />
       <mapping pattern="alternative-delimiter" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="getting-a-license" type="PLAIN_TEXT" />
-      <mapping pattern="views" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="invalidWelcomeLink" type="PLAIN_TEXT" />
+      <mapping pattern="views" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="creating-your-own-tile" type="PLAIN_TEXT" />
       <mapping pattern="using-a-custom-tenant-model" type="PLAIN_TEXT" />
