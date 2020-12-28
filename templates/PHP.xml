@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="rel" value="$table-&gt;unsignedBigInteger('$MODEL$_id');&#10;$table-&gt;foreign('$MODEL$_id')-&gt;references('id')-&gt;on('$MODEL$s')-&gt;onDelete('cascade');&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
