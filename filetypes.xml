@@ -23,10 +23,10 @@
       <mapping pattern="log-dumper" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
-      <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
       <mapping pattern="jsonToHtml" type="PLAIN_TEXT" />
-      <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
+      <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
       <mapping pattern="single-upload" type="PLAIN_TEXT" />
       <mapping pattern=".env-freekdev" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
