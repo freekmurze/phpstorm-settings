@@ -1,0 +1,9 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
+    <option name="reopenLastProject" value="false" />
+    <option name="searchInBackground" value="true" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+</application>
