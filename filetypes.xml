@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="privateKey" type="AUTO_DETECTED" />
+      <mapping pattern="using-a-configuration-file" type="AUTO_DETECTED" />
       <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
@@ -12,10 +13,10 @@
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
       <mapping pattern="jsonToHtml" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="general-overview" type="PLAIN_TEXT" />
       <mapping pattern="TailCommandTest" type="PLAIN_TEXT" />
       <mapping pattern="publicSignature" type="PLAIN_TEXT" />
-      <mapping pattern="general-overview" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
       <mapping pattern="single-upload" type="PLAIN_TEXT" />
       <mapping pattern="customizing-the-views" type="PLAIN_TEXT" />
@@ -34,6 +35,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="creating-your-own-tile" type="PLAIN_TEXT" />
       <mapping pattern="using-a-custom-tenant-model" type="PLAIN_TEXT" />
+      <mapping pattern=".distignore" type="PLAIN_TEXT" />
       <mapping pattern="installing-via-the-1-click-do-installer" type="PLAIN_TEXT" />
       <mapping pattern="single-file-collections" type="PLAIN_TEXT" />
       <mapping pattern="working-with-the-current-tenant" type="PLAIN_TEXT" />
@@ -45,6 +47,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ctp" approved="true" type="PHP" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
